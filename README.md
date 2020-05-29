@@ -12,3 +12,6 @@
 * CSS - Текстовая программа умеющая читать код из файла с расширением .css (VSCode)
 
 
+### Github Pages:
+https://z1zan.github.io/russian-travel/
+
