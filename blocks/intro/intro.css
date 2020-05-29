@@ -6,26 +6,23 @@
 .intro{
   max-width: 720px;
   width: 690px;
-  margin: 0 auto 0 153px;
-  padding-top: 89px;
+  padding: 89px 437px 0 153px;
+  margin: 0 auto;
 }
 @media screen and (min-width: 1024px) and (max-width: 1279px){
   .intro{
-    margin: 0 auto 0 48px;
-    padding-top: 92px;
+    padding: 92px 0 0 48px;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px){
   .intro{
-    margin: 0 auto 0 24px;
-    padding-top: 88px;
+    padding: 88px 0 0 24px;
     width: 720px;
   }
 }
 @media screen and (min-width: 320px) and (max-width: 767px){
   .intro{
     width: 288px;
-    margin: 0 auto;
-    padding-top: 64px;
+    padding: 64px 16px 0 16px;
   }
 }
